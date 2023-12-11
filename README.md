@@ -20,5 +20,8 @@ Dataset taken is Twitter dataset from Kaggle. It contain more than 47,000 tweets
 - Not cyberbullying
   
 The dataset is already balanced  containing 8,000 samples of each class.
+# Comparison based on performance of all applied models
+![image](https://github.com/Anushkag51/Cyberbullying-Detection-/assets/94535886/b0576136-9b6a-4bb3-ae83-a2d9e5f6a881)
+
 
 
