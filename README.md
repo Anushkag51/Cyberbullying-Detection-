@@ -1,4 +1,4 @@
-# Cyberbullying Detection
+# BullyWatch: A Machine Learning Approach to Cyberbullying Detection
 # Description
 # Problem Statement
 Cyberbullying is when someone uses the internet or technology to be mean, hurtful, or cruel to another person. It can happen through messages, posts, comments, or sharing things that are meant to make someone feel bad, embarrassed, or scared. This kind of bullying can happen on social media, in online games, or even through texts. Cyberbullies might tease, spread rumors, send threatening messages, or share private information to harm someone, and it can make the person being bullied feel really upset, sad, or scared about going online or using their phone. This also causes severe emotional harm, Anxiety, Depression, and low self-esteem that’s why it is vital to develop tools and methods that can identify and prevent it.
